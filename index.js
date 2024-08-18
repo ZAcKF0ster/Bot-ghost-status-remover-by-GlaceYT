@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = ["Listening to Ut0pia"];
+const statusMessages = [""];
 
 
 let currentIndex = 0;
