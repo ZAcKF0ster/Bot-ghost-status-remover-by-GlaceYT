@@ -36,7 +36,7 @@ app.listen(port, () => {
 });
 
 
-const statusMessages = [""];
+const statusMessages = ["Watching Enclave"];
 
 
 let currentIndex = 0;
